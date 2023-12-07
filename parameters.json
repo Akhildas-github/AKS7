@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "managedClusters_aks_emr_copearc_prod_01_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_emr_copearc_prod_01_externalid": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_45254ccf_5fb6_47b3_a792_5b3f3f90ebe7_EUS_externalid": {
+            "value": null
+        },
+        "publicIPAddresses_7f7e1a5c_e848_4cf3_8c04_3c8725fe1a77_externalid": {
+            "value": null
+        },
+        "userAssignedIdentities_aks_emr_copearc_prod_01_agentpool_externalid": {
+            "value": null
+        }
+    }
+}
